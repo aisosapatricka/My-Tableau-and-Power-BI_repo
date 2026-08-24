@@ -28,7 +28,14 @@ Tableau Public – published dashboards so that analysis could be shared and vie
 
 The project involved creating visualisations such as Life Expectancy by Continent, Life Expectancy Trends, Population by Gender and Life Expectancy vs BMI. These were combined into a dashboard titled Global Health Insights.
 
+<img width="1002" height="570" alt="image" src="https://github.com/user-attachments/assets/76b8031d-019a-4a80-880d-521cd16443f8" />
+
+
+
 A separate Tableau analysis explored Spotify music trends, including popularity by artist and genre, danceability versus energy, and musical characteristics such as major and minor modes. The resulting dashboard was used to identify trends that could support decisions around playlists, promotions and future music projects.
+
+<img width="1003" height="585" alt="image" src="https://github.com/user-attachments/assets/7fe22aeb-43ad-4bc1-b537-4ae619c665ff" />
+
 
 🎯 Data Storytelling
 
